@@ -1,0 +1,58 @@
+.box {
+    height: 836px;
+    width: 38%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #CCC;
+    padding-left: 14px;
+}
+h4 {
+    font-family: "微软雅黑";
+    font-size: 58px;
+    height: 114px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCC;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 38px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+}
+.textTop {
+    width: 100%;
+    margin-top: 31px;
+    margin-left: 0px;
+    font-family: "微软雅黑";
+    font-size: 34px;
+    margin-bottom: 0px;
+    padding-top: 48px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCC;
+}
+.textBox {
+    width: 100%;
+    margin-left: 0px;
+    font-family: "微软雅黑";
+    font-size: 34px;
+    margin-bottom: 0px;
+    padding-top: 48px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCC;
+}
+.textBottom{
+    width: 100%;
+    margin-left: 0px;
+    font-family: "微软雅黑";
+    font-size: 34px;
+    margin-bottom: 31px;
+    padding-top: 48px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCC;
+}
